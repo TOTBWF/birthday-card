@@ -1,0 +1,14 @@
+{
+  "name": "rachel_birthday",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Reed Mullanix",
+  "license": "MIT ",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-coffee": "^1.0.0",
+    "grunt-contrib-connect": "^1.0.1",
+    "grunt-contrib-jade": "^1.0.0",
+    "grunt-contrib-less": "^1.2.0"
+  }
+}
